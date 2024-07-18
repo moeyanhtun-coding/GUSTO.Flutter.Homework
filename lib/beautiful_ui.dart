@@ -20,7 +20,7 @@ class BeautifulUi extends StatelessWidget {
   Widget _buildUI() {
     return Container(
       color: const Color.fromARGB(255, 244, 89, 141),
-      padding: const EdgeInsets.all(10),
+      padding: const EdgeInsets.all(20),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
